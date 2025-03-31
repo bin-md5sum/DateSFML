@@ -21,7 +21,7 @@ To compile and run this project, you need the following:
    - Usually comes preinstalled in modern distros (Ubuntu, Arch)
 
 3. **Font File**:
-   - The project uses the `NotoSerifTangut-Regular.ttf` font. Ensure this font file is available in the same directory as the executable or provide the correct path.
+   - The project uses the `NotoSerifTangut-Regular.ttf` font. (You can always download this font in [Google Fonts](https://fonts.google.com/noto/specimen/Noto+Serif+Tangut) or use the one provided in the repo) Ensure this font file is available in the same directory as the executable or provide the correct path.
 
 ---
 
